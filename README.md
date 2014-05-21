@@ -1,5 +1,5 @@
 # One Month Rails
 
-This is the Pinterest sample application for [*Lumos*](http://lumosagency.com)
+This is the Pinterest sample application for Lumos.
 
-by Nikesh Patel
+by Nikesh 
